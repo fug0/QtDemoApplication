@@ -1,0 +1,2 @@
+C:\Разработка\QtApplication\x64\Debug\QtApplication.exe
+C:\Разработка\QtApplication\x64\Debug\QtApplication.pdb
